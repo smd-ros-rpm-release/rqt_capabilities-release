@@ -1,0 +1,12 @@
+Source: ros-hydro-rqt-capabilities
+Section: misc
+Priority: extra
+Maintainer: William Woodall <william@osrfoundation.org>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin
+Homepage: http://ros.org/wiki/rqt_capabilities
+Standards-Version: 3.9.2
+
+Package: ros-hydro-rqt-capabilities
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-rospkg, ros-hydro-qt-dotgraph, ros-hydro-rospy, ros-hydro-rqt-graph, ros-hydro-rqt-gui-py
+Description: rqt package for visualization and management of capabilities

@@ -1,3 +1,22 @@
+## rqt_capabilities (hydro) - 0.1.2-0
+
+The packages in the `rqt_capabilities` repository were released into the `hydro` distro by running `/usr/local/bin/bloom-release rqt_capabilities -r hydro -t hydro` on `Wed, 21 May 2014 21:19:19 -0000`
+
+The `rqt_capabilities` package was released.
+
+Version of package(s) in repository `rqt_capabilities`:
+- rosdistro version: `0.1.1-0`
+- old version: `0.1.1-0`
+- new version: `0.1.2-0`
+
+Versions of tools used:
+- bloom version: `0.5.8`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.27`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## rqt_capabilities (groovy) - 0.1.2-0
 
 The packages in the `rqt_capabilities` repository were released into the `groovy` distro by running `/usr/local/bin/bloom-release -r groovy -t groovy rqt_capabilities` on `Wed, 21 May 2014 21:11:39 -0000`

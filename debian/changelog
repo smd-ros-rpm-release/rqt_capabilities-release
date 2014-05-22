@@ -1,0 +1,22 @@
+ros-groovy-rqt-capabilities (0.1.2-1precise) precise; urgency=high
+
+  * put in instrospection plugin group, fixes #12 <https://github.com/osrf/rqt_capabilities/issues/12>
+  * Contributors: William Woodall
+
+ -- William Woodall <william@osrfoundation.org>  Wed, 21 May 2014 07:00:00 -0000
+
+ros-groovy-rqt-capabilities (0.1.1-1precise) precise; urgency=high
+
+  * Install resources and plugin.xml file
+  * Contributors: William Woodall
+
+ -- William Woodall <william@osrfoundation.org>  Mon, 05 May 2014 07:00:00 -0000
+
+ros-groovy-rqt-capabilities (0.1.0-1precise) precise; urgency=high
+
+  * Initial Release
+  * Contributors: Marcus Liebhardt, William Woodall
+
+ -- William Woodall <william@osrfoundation.org>  Tue, 29 Apr 2014 07:00:00 -0000
+
+

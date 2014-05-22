@@ -1,3 +1,22 @@
+## rqt_capabilities (groovy) - 0.1.2-1
+
+The packages in the `rqt_capabilities` repository were released into the `groovy` distro by running `/usr/local/bin/bloom-release -r groovy -t groovy rqt_capabilities` on `Thu, 22 May 2014 00:49:11 -0000`
+
+The `rqt_capabilities` package was released.
+
+Version of package(s) in repository `rqt_capabilities`:
+- rosdistro version: `0.1.2-0`
+- old version: `0.1.2-0`
+- new version: `0.1.2-1`
+
+Versions of tools used:
+- bloom version: `0.5.9`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.27`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## rqt_capabilities (indigo) - 0.1.2-0
 
 The packages in the `rqt_capabilities` repository were released into the `indigo` distro by running `/usr/local/bin/bloom-release rqt_capabilities -r indigo -t indigo` on `Wed, 21 May 2014 21:25:40 -0000`
